@@ -1,0 +1,33 @@
+running egg_info
+writing ../../build/serving_robot/serving_robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/serving_robot/serving_robot.egg-info/dependency_links.txt
+writing entry points to ../../build/serving_robot/serving_robot.egg-info/entry_points.txt
+writing requirements to ../../build/serving_robot/serving_robot.egg-info/requires.txt
+writing top-level names to ../../build/serving_robot/serving_robot.egg-info/top_level.txt
+reading manifest file '../../build/serving_robot/serving_robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/serving_robot/serving_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying serving_robot/kitchen/kitchen.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen
+running install
+running install_lib
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen/kitchen.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen/kitchen.py to kitchen.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/serving_robot/serving_robot.egg-info to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing customer script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing customer2 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing customer3 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing customer4 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing customer5 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing customer6 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing customer7 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing customer8 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing customer9 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing kitchen script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing kitchen_ori script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing robotui script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+writing list of installed files to '/home/kimdahun/order_v10_good_ws/build/serving_robot/install.log'

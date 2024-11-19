@@ -1,0 +1,64 @@
+[1.964s] Invoking command in '/home/kimdahun/order_v10_good_ws/src/serving_robot': LD_LIBRARY_PATH=/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib:/home/kimdahun/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/kimdahun/order_v10_good_ws/build/serving_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/serving_robot build --build-base /home/kimdahun/order_v10_good_ws/build/serving_robot/build install --record /home/kimdahun/order_v10_good_ws/build/serving_robot/install.log --single-version-externally-managed install_data
+[2.711s] running egg_info
+[2.714s] writing ../../build/serving_robot/serving_robot.egg-info/PKG-INFO
+[2.715s] writing dependency_links to ../../build/serving_robot/serving_robot.egg-info/dependency_links.txt
+[2.715s] writing entry points to ../../build/serving_robot/serving_robot.egg-info/entry_points.txt
+[2.716s] writing requirements to ../../build/serving_robot/serving_robot.egg-info/requires.txt
+[2.716s] writing top-level names to ../../build/serving_robot/serving_robot.egg-info/top_level.txt
+[2.725s] reading manifest file '../../build/serving_robot/serving_robot.egg-info/SOURCES.txt'
+[2.729s] writing manifest file '../../build/serving_robot/serving_robot.egg-info/SOURCES.txt'
+[2.729s] running build
+[2.729s] running build_py
+[2.730s] copying serving_robot/customer/customer4.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+[2.730s] copying serving_robot/customer/customer9.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+[2.731s] copying serving_robot/customer/customer2.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+[2.731s] copying serving_robot/customer/customer7.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+[2.732s] copying serving_robot/customer/customer3.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+[2.732s] copying serving_robot/customer/customer6.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+[2.732s] copying serving_robot/customer/customer5.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+[2.733s] copying serving_robot/customer/customer8.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+[2.734s] copying serving_robot/kitchen/kitchen0.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen
+[2.735s] copying serving_robot/kitchen/kitchen.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen
+[2.736s] copying serving_robot/kitchen/kitchen_ori.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen
+[2.738s] running install
+[2.739s] running install_lib
+[2.742s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer/customer4.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+[2.743s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer/customer9.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+[2.743s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer/customer2.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+[2.743s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer/customer7.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+[2.744s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer/customer3.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+[2.744s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer/customer6.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+[2.744s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer/customer5.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+[2.745s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer/customer8.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+[2.746s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen/kitchen0.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen
+[2.746s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen/kitchen.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen
+[2.747s] copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen/kitchen_ori.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen
+[2.749s] byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer/customer4.py to customer4.cpython-310.pyc
+[2.756s] byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer/customer9.py to customer9.cpython-310.pyc
+[2.762s] byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer/customer2.py to customer2.cpython-310.pyc
+[2.768s] byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer/customer7.py to customer7.cpython-310.pyc
+[2.772s] byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer/customer3.py to customer3.cpython-310.pyc
+[2.775s] byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer/customer6.py to customer6.cpython-310.pyc
+[2.779s] byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer/customer5.py to customer5.cpython-310.pyc
+[2.782s] byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer/customer8.py to customer8.cpython-310.pyc
+[2.787s] byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen/kitchen0.py to kitchen0.cpython-310.pyc
+[2.797s] byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen/kitchen_ori.py to kitchen_ori.cpython-310.pyc
+[2.806s] running install_data
+[2.806s] running install_egg_info
+[2.812s] removing '/home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot-0.0.0-py3.10.egg-info' (and everything under it)
+[2.812s] Copying ../../build/serving_robot/serving_robot.egg-info to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot-0.0.0-py3.10.egg-info
+[2.815s] running install_scripts
+[2.870s] Installing customer script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.870s] Installing customer2 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.870s] Installing customer3 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.870s] Installing customer4 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.871s] Installing customer5 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.871s] Installing customer6 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.871s] Installing customer7 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.871s] Installing customer8 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.872s] Installing customer9 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.872s] Installing kitchen script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.872s] Installing kitchen_ori script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.872s] Installing robotui script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.875s] writing list of installed files to '/home/kimdahun/order_v10_good_ws/build/serving_robot/install.log'
+[2.938s] Invoked command in '/home/kimdahun/order_v10_good_ws/src/serving_robot' returned '0': LD_LIBRARY_PATH=/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib:/home/kimdahun/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/kimdahun/order_v10_good_ws/build/serving_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/serving_robot build --build-base /home/kimdahun/order_v10_good_ws/build/serving_robot/build install --record /home/kimdahun/order_v10_good_ws/build/serving_robot/install.log --single-version-externally-managed install_data

@@ -1,0 +1,31 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from ros_study_msgs/srv/OrderCustomer.srv
+// generated code does not contain a copyright notice
+
+
+module ros_study_msgs {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request")
+    struct OrderCustomer_Request {
+      @verbatim (language="comment", text=
+        "음식 번호")
+      sequence<int32> menu_num;
+
+      @verbatim (language="comment", text=
+        "음식 수량")
+      sequence<int32> quantity_num;
+
+      @verbatim (language="comment", text=
+        "테이블 넘버")
+      int8 table_number;
+
+      int8 order_round;
+    };
+    @verbatim (language="comment", text=
+      "Response")
+    struct OrderCustomer_Response {
+      int8 order_check;
+    };
+  };
+};

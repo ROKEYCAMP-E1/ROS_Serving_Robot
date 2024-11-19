@@ -1,0 +1,10 @@
+setup.py
+ros_study_msgs/__init__.py
+ros_study_msgs.egg-info/PKG-INFO
+ros_study_msgs.egg-info/SOURCES.txt
+ros_study_msgs.egg-info/dependency_links.txt
+ros_study_msgs.egg-info/top_level.txt
+ros_study_msgs/msg/__init__.py
+ros_study_msgs/msg/_move_robot.py
+ros_study_msgs/srv/__init__.py
+ros_study_msgs/srv/_order_customer.py

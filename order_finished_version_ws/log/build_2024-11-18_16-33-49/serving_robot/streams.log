@@ -1,0 +1,32 @@
+[1.844s] Invoking command in '/home/kimdahun/order_v10_good_ws/src/serving_robot': LD_LIBRARY_PATH=/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib:/home/kimdahun/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/kimdahun/order_v10_good_ws/build/serving_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/serving_robot build --build-base /home/kimdahun/order_v10_good_ws/build/serving_robot/build install --record /home/kimdahun/order_v10_good_ws/build/serving_robot/install.log --single-version-externally-managed install_data
+[2.524s] running egg_info
+[2.526s] writing ../../build/serving_robot/serving_robot.egg-info/PKG-INFO
+[2.526s] writing dependency_links to ../../build/serving_robot/serving_robot.egg-info/dependency_links.txt
+[2.528s] writing entry points to ../../build/serving_robot/serving_robot.egg-info/entry_points.txt
+[2.528s] writing requirements to ../../build/serving_robot/serving_robot.egg-info/requires.txt
+[2.528s] writing top-level names to ../../build/serving_robot/serving_robot.egg-info/top_level.txt
+[2.535s] reading manifest file '../../build/serving_robot/serving_robot.egg-info/SOURCES.txt'
+[2.538s] writing manifest file '../../build/serving_robot/serving_robot.egg-info/SOURCES.txt'
+[2.538s] running build
+[2.539s] running build_py
+[2.542s] running install
+[2.542s] running install_lib
+[2.548s] running install_data
+[2.548s] running install_egg_info
+[2.552s] removing '/home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot-0.0.0-py3.10.egg-info' (and everything under it)
+[2.553s] Copying ../../build/serving_robot/serving_robot.egg-info to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot-0.0.0-py3.10.egg-info
+[2.554s] running install_scripts
+[2.606s] Installing customer script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.606s] Installing customer2 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.606s] Installing customer3 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.606s] Installing customer4 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.607s] Installing customer5 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.607s] Installing customer6 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.607s] Installing customer7 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.607s] Installing customer8 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.607s] Installing customer9 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.608s] Installing kitchen script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.608s] Installing kitchen_ori script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.608s] Installing robotui script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+[2.610s] writing list of installed files to '/home/kimdahun/order_v10_good_ws/build/serving_robot/install.log'
+[2.667s] Invoked command in '/home/kimdahun/order_v10_good_ws/src/serving_robot' returned '0': LD_LIBRARY_PATH=/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib:/home/kimdahun/turtlebot3_ws/install/turtlebot3_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/kimdahun/order_v10_good_ws/build/serving_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/serving_robot build --build-base /home/kimdahun/order_v10_good_ws/build/serving_robot/build install --record /home/kimdahun/order_v10_good_ws/build/serving_robot/install.log --single-version-externally-managed install_data

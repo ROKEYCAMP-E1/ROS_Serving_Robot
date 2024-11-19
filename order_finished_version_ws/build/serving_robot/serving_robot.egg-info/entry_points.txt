@@ -1,0 +1,14 @@
+[console_scripts]
+customer = serving_robot.customer.customer:main
+customer2 = serving_robot.customer.customer2:main
+customer3 = serving_robot.customer.customer3:main
+customer4 = serving_robot.customer.customer4:main
+customer5 = serving_robot.customer.customer5:main
+customer6 = serving_robot.customer.customer6:main
+customer7 = serving_robot.customer.customer7:main
+customer8 = serving_robot.customer.customer8:main
+customer9 = serving_robot.customer.customer9:main
+kitchen = serving_robot.kitchen.kitchen:main
+kitchen_ori = serving_robot.kitchen.kitchencopy:main
+robotui = serving_robot.robotui.robotui:main
+

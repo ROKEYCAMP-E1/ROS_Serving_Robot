@@ -1,0 +1,69 @@
+running egg_info
+creating ../../build/serving_robot/serving_robot.egg-info
+writing ../../build/serving_robot/serving_robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/serving_robot/serving_robot.egg-info/dependency_links.txt
+writing entry points to ../../build/serving_robot/serving_robot.egg-info/entry_points.txt
+writing requirements to ../../build/serving_robot/serving_robot.egg-info/requires.txt
+writing top-level names to ../../build/serving_robot/serving_robot.egg-info/top_level.txt
+writing manifest file '../../build/serving_robot/serving_robot.egg-info/SOURCES.txt'
+reading manifest file '../../build/serving_robot/serving_robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/serving_robot/serving_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kimdahun/order_v10_good_ws/build/serving_robot/build
+creating /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib
+creating /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot
+copying serving_robot/__init__.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot
+creating /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+copying serving_robot/customer/__init__.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+copying serving_robot/customer/customer.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer
+creating /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/robotui
+copying serving_robot/robotui/__init__.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/robotui
+copying serving_robot/robotui/robotui.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/robotui
+creating /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen
+copying serving_robot/kitchen/kitchen1.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen
+copying serving_robot/kitchen/kitchen0.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen
+copying serving_robot/kitchen/__init__.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen
+copying serving_robot/kitchen/kitchen.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen
+copying serving_robot/kitchen/kitchencopy.py -> /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen
+running install
+running install_lib
+creating /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/__init__.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot
+creating /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer/__init__.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/customer/customer.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer
+creating /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/robotui
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/robotui/__init__.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/robotui
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/robotui/robotui.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/robotui
+creating /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen/kitchen1.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen/kitchen0.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen/__init__.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen/kitchen.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen
+copying /home/kimdahun/order_v10_good_ws/build/serving_robot/build/lib/serving_robot/kitchen/kitchencopy.py -> /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/customer/customer.py to customer.cpython-310.pyc
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/robotui/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/robotui/robotui.py to robotui.cpython-310.pyc
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen/kitchen1.py to kitchen1.cpython-310.pyc
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen/kitchen0.py to kitchen0.cpython-310.pyc
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen/kitchen.py to kitchen.cpython-310.pyc
+byte-compiling /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot/kitchen/kitchencopy.py to kitchencopy.cpython-310.pyc
+running install_data
+creating /home/kimdahun/order_v10_good_ws/install/serving_robot/share/ament_index
+creating /home/kimdahun/order_v10_good_ws/install/serving_robot/share/ament_index/resource_index
+creating /home/kimdahun/order_v10_good_ws/install/serving_robot/share/ament_index/resource_index/packages
+copying resource/serving_robot -> /home/kimdahun/order_v10_good_ws/install/serving_robot/share/ament_index/resource_index/packages
+copying package.xml -> /home/kimdahun/order_v10_good_ws/install/serving_robot/share/serving_robot
+running install_egg_info
+Copying ../../build/serving_robot/serving_robot.egg-info to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/python3.10/site-packages/serving_robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing customer script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing kitchen script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing kitchen1 script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing kitchencopy script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+Installing robotui script to /home/kimdahun/order_v10_good_ws/install/serving_robot/lib/serving_robot
+writing list of installed files to '/home/kimdahun/order_v10_good_ws/build/serving_robot/install.log'

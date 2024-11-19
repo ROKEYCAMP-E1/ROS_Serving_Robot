@@ -1,0 +1,275 @@
+[0.026s] Invoking command in '/home/kimdahun/order_v10_good_ws/build/ros_study_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kimdahun/turtlebot3_ws/install/turtlebot3_teleop:/home/kimdahun/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake /home/kimdahun/order_v10_good_ws/src/ros_study_msgs -DCMAKE_INSTALL_PREFIX=/home/kimdahun/order_v10_good_ws/install/ros_study_msgs
+[0.215s] -- The C compiler identification is GNU 11.4.0
+[0.393s] -- The CXX compiler identification is GNU 11.4.0
+[0.413s] -- Detecting C compiler ABI info
+[0.580s] -- Detecting C compiler ABI info - done
+[0.600s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.608s] -- Detecting C compile features
+[0.610s] -- Detecting C compile features - done
+[0.620s] -- Detecting CXX compiler ABI info
+[0.822s] -- Detecting CXX compiler ABI info - done
+[0.847s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.848s] -- Detecting CXX compile features
+[0.849s] -- Detecting CXX compile features - done
+[0.874s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.306s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.599s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[1.724s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.744s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.774s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.819s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.880s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.933s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.704s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.573s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.911s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.983s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[3.989s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[4.064s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[4.064s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.064s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[4.065s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[4.122s] -- Found PythonExtra: .so  
+[4.240s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.310s] -- Added test 'lint_cmake' to check CMake code style
+[4.314s] -- Added test 'xmllint' to check XML markup files
+[4.321s] -- Configuring done
+[4.392s] -- Generating done
+[4.398s] -- Build files have been written to: /home/kimdahun/order_v10_good_ws/build/ros_study_msgs
+[4.410s] Invoked command in '/home/kimdahun/order_v10_good_ws/build/ros_study_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kimdahun/turtlebot3_ws/install/turtlebot3_teleop:/home/kimdahun/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake /home/kimdahun/order_v10_good_ws/src/ros_study_msgs -DCMAKE_INSTALL_PREFIX=/home/kimdahun/order_v10_good_ws/install/ros_study_msgs
+[4.414s] Invoking command in '/home/kimdahun/order_v10_good_ws/build/ros_study_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kimdahun/turtlebot3_ws/install/turtlebot3_teleop:/home/kimdahun/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/kimdahun/order_v10_good_ws/build/ros_study_msgs -- -j8 -l8
+[4.511s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[4.534s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[4.554s] [  5%] Built target ament_cmake_python_copy_ros_study_msgs
+[5.244s] running egg_info
+[5.246s] creating ros_study_msgs.egg-info
+[5.246s] writing ros_study_msgs.egg-info/PKG-INFO
+[5.247s] writing dependency_links to ros_study_msgs.egg-info/dependency_links.txt
+[5.247s] writing top-level names to ros_study_msgs.egg-info/top_level.txt
+[5.248s] writing manifest file 'ros_study_msgs.egg-info/SOURCES.txt'
+[5.253s] reading manifest file 'ros_study_msgs.egg-info/SOURCES.txt'
+[5.254s] writing manifest file 'ros_study_msgs.egg-info/SOURCES.txt'
+[5.311s] [  5%] Built target ament_cmake_python_build_ros_study_msgs_egg
+[5.465s] [  5%] Built target ros_study_msgs__cpp
+[5.487s] [  7%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[5.487s] [ 10%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[5.493s] [ 12%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[5.517s] [ 15%] [32mBuilding C object CMakeFiles/ros_study_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_study_msgs/srv/detail/order_customer__functions.c.o[0m
+[5.517s] [ 17%] [32mBuilding C object CMakeFiles/ros_study_msgs__rosidl_generator_c.dir/rosidl_generator_c/ros_study_msgs/msg/detail/move_robot__functions.c.o[0m
+[5.660s] [ 20%] [32m[1mLinking C shared library libros_study_msgs__rosidl_generator_c.so[0m
+[5.740s] [ 20%] Built target ros_study_msgs__rosidl_generator_c
+[5.772s] [ 28%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[5.772s] [ 28%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[5.772s] [ 28%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[6.242s] [ 30%] [32mBuilding CXX object CMakeFiles/ros_study_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_study_msgs/msg/move_robot__type_support.cpp.o[0m
+[6.244s] [ 33%] [32mBuilding CXX object CMakeFiles/ros_study_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/ros_study_msgs/srv/order_customer__type_support.cpp.o[0m
+[6.757s] [ 35%] [32mBuilding CXX object CMakeFiles/ros_study_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_study_msgs/srv/order_customer__type_support.cpp.o[0m
+[6.767s] [ 38%] [32mBuilding CXX object CMakeFiles/ros_study_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/ros_study_msgs/msg/move_robot__type_support.cpp.o[0m
+[6.851s] [ 41%] [32mBuilding CXX object CMakeFiles/ros_study_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_study_msgs/srv/detail/order_customer__type_support.cpp.o[0m
+[6.882s] [ 43%] [32m[1mLinking CXX shared library libros_study_msgs__rosidl_typesupport_c.so[0m
+[6.883s] [ 46%] [32mBuilding CXX object CMakeFiles/ros_study_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/ros_study_msgs/msg/detail/move_robot__type_support.cpp.o[0m
+[6.905s] [ 48%] [32mBuilding CXX object CMakeFiles/ros_study_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_study_msgs/srv/detail/dds_fastrtps/order_customer__type_support.cpp.o[0m
+[7.029s] [ 48%] Built target ros_study_msgs__rosidl_typesupport_c
+[7.058s] [ 51%] [32mBuilding CXX object CMakeFiles/ros_study_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ros_study_msgs/msg/detail/dds_fastrtps/move_robot__type_support.cpp.o[0m
+[7.251s] [ 53%] [32m[1mLinking CXX shared library libros_study_msgs__rosidl_typesupport_cpp.so[0m
+[7.261s] [ 56%] [32mBuilding C object CMakeFiles/ros_study_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_study_msgs/srv/detail/order_customer__type_support.c.o[0m
+[7.289s] [ 58%] [32mBuilding C object CMakeFiles/ros_study_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ros_study_msgs/msg/detail/move_robot__type_support.c.o[0m
+[7.406s] [ 61%] [32m[1mLinking C shared library libros_study_msgs__rosidl_typesupport_introspection_c.so[0m
+[7.419s] [ 64%] [32mBuilding CXX object CMakeFiles/ros_study_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_study_msgs/srv/detail/order_customer__type_support_c.cpp.o[0m
+[7.429s] [ 66%] [32mBuilding CXX object CMakeFiles/ros_study_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/ros_study_msgs/msg/detail/move_robot__type_support_c.cpp.o[0m
+[7.462s] [ 66%] Built target ros_study_msgs__rosidl_typesupport_cpp
+[7.538s] [ 66%] Built target ros_study_msgs__rosidl_typesupport_introspection_c
+[8.231s] [ 69%] [32m[1mLinking CXX shared library libros_study_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[8.276s] [ 71%] [32m[1mLinking CXX shared library libros_study_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[8.408s] [ 71%] Built target ros_study_msgs__rosidl_typesupport_introspection_cpp
+[8.459s] [ 71%] Built target ros_study_msgs__rosidl_typesupport_fastrtps_cpp
+[8.598s] [ 74%] [32m[1mLinking CXX shared library libros_study_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[8.789s] [ 74%] Built target ros_study_msgs__rosidl_typesupport_fastrtps_c
+[8.841s] [ 74%] Built target ros_study_msgs
+[8.892s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[10.252s] [ 76%] Built target ros_study_msgs__py
+[10.301s] [ 79%] [32mBuilding C object CMakeFiles/ros_study_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_study_msgs/srv/_order_customer_s.c.o[0m
+[10.301s] [ 82%] [32mBuilding C object CMakeFiles/ros_study_msgs__rosidl_generator_py.dir/rosidl_generator_py/ros_study_msgs/msg/_move_robot_s.c.o[0m
+[10.572s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/ros_study_msgs/libros_study_msgs__rosidl_generator_py.so[0m
+[10.674s] [ 84%] Built target ros_study_msgs__rosidl_generator_py
+[10.723s] [ 87%] [32mBuilding C object CMakeFiles/ros_study_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/ros_study_msgs/_ros_study_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[10.724s] [ 89%] [32mBuilding C object CMakeFiles/ros_study_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/ros_study_msgs/_ros_study_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[10.724s] [ 92%] [32mBuilding C object CMakeFiles/ros_study_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/ros_study_msgs/_ros_study_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[10.948s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.949s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.951s] [100%] [32m[1mLinking C shared library rosidl_generator_py/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[11.027s] [100%] Built target ros_study_msgs__rosidl_typesupport_c__pyext
+[11.027s] [100%] Built target ros_study_msgs__rosidl_typesupport_fastrtps_c__pyext
+[11.028s] [100%] Built target ros_study_msgs__rosidl_typesupport_introspection_c__pyext
+[11.055s] Invoked command in '/home/kimdahun/order_v10_good_ws/build/ros_study_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kimdahun/turtlebot3_ws/install/turtlebot3_teleop:/home/kimdahun/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/kimdahun/order_v10_good_ws/build/ros_study_msgs -- -j8 -l8
+[11.264s] Invoking command in '/home/kimdahun/order_v10_good_ws/build/ros_study_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kimdahun/turtlebot3_ws/install/turtlebot3_teleop:/home/kimdahun/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/kimdahun/order_v10_good_ws/build/ros_study_msgs
+[11.282s] -- Install configuration: ""
+[11.283s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ament_index/resource_index/rosidl_interfaces/ros_study_msgs
+[11.283s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs
+[11.283s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg
+[11.284s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail
+[11.284s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__functions.h
+[11.284s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__struct.h
+[11.284s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__type_support.h
+[11.284s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__functions.c
+[11.284s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/move_robot.h
+[11.285s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/rosidl_generator_c__visibility_control.h
+[11.285s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv
+[11.285s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/order_customer.h
+[11.285s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail
+[11.286s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__functions.h
+[11.286s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__functions.c
+[11.286s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__type_support.h
+[11.286s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__struct.h
+[11.286s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/environment/library_path.sh
+[11.286s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/environment/library_path.dsv
+[11.287s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_generator_c.so
+[11.287s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_generator_c.so" to ""
+[11.288s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs
+[11.288s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg
+[11.288s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[11.289s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail
+[11.289s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__rosidl_typesupport_fastrtps_c.h
+[11.289s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv
+[11.289s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail
+[11.290s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__rosidl_typesupport_fastrtps_c.h
+[11.290s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_fastrtps_c.so
+[11.290s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[11.291s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs
+[11.291s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg
+[11.291s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/move_robot.hpp
+[11.292s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail
+[11.292s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__builder.hpp
+[11.293s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__traits.hpp
+[11.293s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__struct.hpp
+[11.293s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv
+[11.294s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail
+[11.294s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__builder.hpp
+[11.294s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__struct.hpp
+[11.295s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__traits.hpp
+[11.295s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/order_customer.hpp
+[11.295s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs
+[11.296s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg
+[11.296s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[11.296s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail
+[11.296s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__rosidl_typesupport_fastrtps_cpp.hpp
+[11.297s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/dds_fastrtps
+[11.297s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv
+[11.297s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail
+[11.297s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__rosidl_typesupport_fastrtps_cpp.hpp
+[11.298s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/dds_fastrtps
+[11.298s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_fastrtps_cpp.so
+[11.298s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[11.299s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs
+[11.299s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg
+[11.299s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[11.299s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail
+[11.300s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__rosidl_typesupport_introspection_c.h
+[11.300s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__type_support.c
+[11.300s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv
+[11.300s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail
+[11.301s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__type_support.c
+[11.301s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__rosidl_typesupport_introspection_c.h
+[11.301s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_introspection_c.so
+[11.302s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_introspection_c.so" to ""
+[11.302s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_c.so
+[11.302s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_c.so" to ""
+[11.302s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs
+[11.303s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg
+[11.303s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail
+[11.303s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__type_support.cpp
+[11.304s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/msg/detail/move_robot__rosidl_typesupport_introspection_cpp.hpp
+[11.304s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv
+[11.304s] -- Up-to-date: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail
+[11.304s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__type_support.cpp
+[11.305s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/include/ros_study_msgs/ros_study_msgs/srv/detail/order_customer__rosidl_typesupport_introspection_cpp.hpp
+[11.305s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_introspection_cpp.so
+[11.305s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[11.305s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_cpp.so
+[11.306s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_typesupport_cpp.so" to ""
+[11.306s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/environment/pythonpath.sh
+[11.307s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/environment/pythonpath.dsv
+[11.307s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs-0.0.0-py3.10.egg-info
+[11.308s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[11.308s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[11.308s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[11.309s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[11.309s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs
+[11.309s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[11.310s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/msg
+[11.310s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/msg/__init__.py
+[11.310s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/msg/_move_robot_s.c
+[11.310s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/msg/_move_robot.py
+[11.311s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/_ros_study_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[11.311s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/__init__.py
+[11.312s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/libros_study_msgs__rosidl_generator_py.so
+[11.312s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/_ros_study_msgs_s.ep.rosidl_typesupport_c.c
+[11.312s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[11.312s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[11.313s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/_ros_study_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[11.313s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/srv
+[11.314s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/srv/_order_customer_s.c
+[11.314s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/srv/__init__.py
+[11.314s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/srv/_order_customer.py
+[11.405s] Listing '/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs'...
+[11.405s] Compiling '/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/__init__.py'...
+[11.405s] Listing '/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/msg'...
+[11.405s] Compiling '/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/msg/__init__.py'...
+[11.406s] Compiling '/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/msg/_move_robot.py'...
+[11.406s] Listing '/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/srv'...
+[11.406s] Compiling '/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/srv/__init__.py'...
+[11.406s] Compiling '/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/srv/_order_customer.py'...
+[11.416s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[11.417s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[11.417s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[11.418s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[11.419s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[11.419s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/local/lib/python3.10/dist-packages/ros_study_msgs/ros_study_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[11.420s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_generator_py.so
+[11.421s] -- Set runtime path of "/home/kimdahun/order_v10_good_ws/install/ros_study_msgs/lib/libros_study_msgs__rosidl_generator_py.so" to ""
+[11.421s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/srv/OrderCustomer.idl
+[11.421s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/msg/MoveRobot.idl
+[11.422s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/srv/OrderCustomer.srv
+[11.422s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/srv/OrderCustomer_Request.msg
+[11.423s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/srv/OrderCustomer_Response.msg
+[11.423s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/msg/MoveRobot.msg
+[11.423s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ament_index/resource_index/package_run_dependencies/ros_study_msgs
+[11.424s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ament_index/resource_index/parent_prefix_path/ros_study_msgs
+[11.424s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/environment/ament_prefix_path.sh
+[11.425s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/environment/ament_prefix_path.dsv
+[11.425s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/environment/path.sh
+[11.425s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/environment/path.dsv
+[11.426s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/local_setup.bash
+[11.426s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/local_setup.sh
+[11.427s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/local_setup.zsh
+[11.427s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/local_setup.dsv
+[11.427s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/package.dsv
+[11.428s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ament_index/resource_index/packages/ros_study_msgs
+[11.428s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/export_ros_study_msgs__rosidl_generator_cExport.cmake
+[11.429s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/export_ros_study_msgs__rosidl_generator_cExport-noconfig.cmake
+[11.429s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/export_ros_study_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[11.429s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/export_ros_study_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[11.430s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/export_ros_study_msgs__rosidl_generator_cppExport.cmake
+[11.430s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/export_ros_study_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[11.431s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/export_ros_study_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[11.431s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ros_study_msgs__rosidl_typesupport_introspection_cExport.cmake
+[11.431s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ros_study_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[11.432s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ros_study_msgs__rosidl_typesupport_cExport.cmake
+[11.432s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ros_study_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[11.433s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ros_study_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[11.433s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ros_study_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[11.433s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ros_study_msgs__rosidl_typesupport_cppExport.cmake
+[11.434s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ros_study_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[11.434s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/export_ros_study_msgs__rosidl_generator_pyExport.cmake
+[11.435s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/export_ros_study_msgs__rosidl_generator_pyExport-noconfig.cmake
+[11.435s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/rosidl_cmake-extras.cmake
+[11.435s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[11.436s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[11.436s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[11.437s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[11.437s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[11.437s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[11.438s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ros_study_msgsConfig.cmake
+[11.438s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/cmake/ros_study_msgsConfig-version.cmake
+[11.439s] -- Installing: /home/kimdahun/order_v10_good_ws/install/ros_study_msgs/share/ros_study_msgs/package.xml
+[11.445s] Invoked command in '/home/kimdahun/order_v10_good_ws/build/ros_study_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kimdahun/turtlebot3_ws/install/turtlebot3_teleop:/home/kimdahun/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/kimdahun/order_v10_good_ws/build/ros_study_msgs
