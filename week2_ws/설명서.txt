@@ -1,0 +1,11 @@
+terminal 1
+[run turtlebot3]
+
+terminal 2
+ros2 run serving_robot kitchen
+
+terminal 3
+ros2 run serving_robot customer
+
+terminal 4
+ros2 run serving_robot robotui
